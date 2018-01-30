@@ -1,0 +1,24 @@
+{
+  "name": "demo-app",
+  "description": "a",
+  "main": "",
+  "authors": [
+    "fabricio"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "demo"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "css-calc-mixin": "*"
+  }
+}

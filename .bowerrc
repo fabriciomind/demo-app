@@ -1,0 +1,5 @@
+{
+	"strict-ssl": false,
+	"proxy":"http://p061216:F4br1c10FRG@proxyint.prodemge.gov.br:8080",
+	"https-proxy":"http://p061216:F4br1c10FRG@proxyint.prodemge.gov.br:8080"
+}
